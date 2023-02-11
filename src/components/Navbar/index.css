@@ -1,0 +1,20 @@
+.navbar {
+  align-items: center;
+  display: flex;
+}
+.logo {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.logo h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#logo__clima {
+  height: 4rem;
+  width: 4rem;
+}

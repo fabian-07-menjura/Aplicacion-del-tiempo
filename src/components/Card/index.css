@@ -1,0 +1,59 @@
+.card {
+  background: gray;
+  height: 20rem;
+  margin-top: 50px;
+  width: 30rem;
+  box-shadow: 0 0 5px #12c1db, 0 0 20px #12c1db, 0 0 20px #12c1db,
+    0 0 100px #12c1db;
+}
+
+.card__title {
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 22px;
+  text-align: center;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  margin-right: 8px;
+  margin-top: 2px;
+}
+.row {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.grados {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.imagen {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.imagen img {
+  height: 8rem;
+  width: 8rem;
+}
+
+.imagen h4 {
+  color: white;
+  font-size: 1rem;
+}
+
+.fecha {
+  color: white;
+}
+
+.tipo__Temp {
+  height: 2rem;
+  width: 5rem;
+}

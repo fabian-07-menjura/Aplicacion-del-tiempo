@@ -1,0 +1,12 @@
+.cargando {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 27.1vw;
+}
+
+.cargando > img {
+  height: 15rem;
+  width: 15rem;
+}
