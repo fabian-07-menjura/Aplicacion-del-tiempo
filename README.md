@@ -1,5 +1,5 @@
 
-# Proyecto Individual - App-Clima
+# Proyecto Individual - App-Rick and Morty
 
 
 
